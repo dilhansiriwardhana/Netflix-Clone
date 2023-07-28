@@ -1,2 +1,2 @@
-# Netflic Clone
+# Netflix Clone
  learning project
